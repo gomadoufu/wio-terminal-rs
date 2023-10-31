@@ -1,0 +1,9 @@
+[package]
+authors = ["gomadoufu <49393637+gomadoufu@users.noreply.github.com>"]
+name = "my-blink"
+edition = "2018"
+version = "0.1.0"
+
+[dependencies]
+support = { path = "support" }
+panic-halt = "0.2"
